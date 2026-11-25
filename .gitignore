@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.key
+*.zip
+manifest.json
+state.json
+library/
