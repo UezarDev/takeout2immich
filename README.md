@@ -1,7 +1,7 @@
 # takeout2immich
 
 [![tests](https://github.com/UezarDev/takeout2immich/actions/workflows/tests.yml/badge.svg)](https://github.com/UezarDev/takeout2immich/actions/workflows/tests.yml)
-![python](https://img.shields.io/badge/python-3.8%2B-blue)
+![python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
 takeout2immich moves a Google Photos library into [Immich](https://immich.app) from one or more
@@ -54,7 +54,7 @@ Immich is.
 
 ## Requirements
 
-- Python 3.8 or newer
+- Python 3.10 or newer
 - `curl` (preinstalled on Linux, macOS and Windows 10+)
 - An Immich server, recent v1.13x or any v2/v3, and an **API key** for the account to import into:
   in Immich, go to *Account Settings → API Keys → New API Key*, with all permissions.
